@@ -1,0 +1,15 @@
+[submodule "Maze"]
+	path = Maze
+	url = https://github.com/b-tapia-morales/Maze
+[submodule "KnightTour"]
+	path = KnightTour
+	url = https://github.com/b-tapia-morales/KnightTour
+[submodule "EightQueens"]
+	path = EightQueens
+	url = https://github.com/b-tapia-morales/EightQueens
+[submodule "MagicSquare"]
+	path = MagicSquare
+	url = https://github.com/b-tapia-morales/MagicSquare
+[submodule "DataStructures"]
+	path = DataStructures
+	url = https://github.com/b-tapia-morales/DataStructures
